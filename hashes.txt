@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Heartache Under The Moon
+
+This log tracks the cryptographic history and versioning for the song **Heartache Under The Moon** (heartache-under-the-moon).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T18:37:37.996281 | `v1` | `2d59daac7dbe2a0e79dbd29e17278dbfa8c55cbe208e500ec24ff90a44c1b50d` | `77ff3f91a8749cae19746032980e873393181e5328065a48036acdbac3e431a5` | `2026-06-09_heartache-under-the-moon-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
