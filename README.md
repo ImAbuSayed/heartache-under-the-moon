@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heartache-under-the-moon/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Heartache Under The Moon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heartache-under-the-moon/) |
+| **Get License** | [Commercial Licensing for Heartache Under The Moon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heartache-under-the-moon/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows dancing on the floorboards of the room
+> Tangled up inside a whispered, sweet perfume
+> Hold me closer till the morning comes too soon
+> Losing my mind to this heartache under the moon
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
