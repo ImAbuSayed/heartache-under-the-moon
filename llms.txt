@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heartache-under-the-moon/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Heartache Under The Moon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heartache-under-the-moon/) |
+| **Get License** | [Request Licensing for Heartache Under The Moon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heartache-under-the-moon/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2899)
 
 ---
 
